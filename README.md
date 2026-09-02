@@ -23,8 +23,6 @@ I enjoy learning new technologies, building projects, and improving my skills th
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=tonmoyislam-deventest&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=tonmoyislam-deventest&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
  
 
