@@ -1,7 +1,9 @@
 ### Hey 👋! Nice to see you here!
-#### I'm Tonmoy Islam.
+#### I'm Tonmoy Islam. I'm a Frontend Developer focused on building clean, responsive, and user-friendly web experiences. 💻  
+I enjoy learning new technologies, building projects, and improving my skills through practice. 🚀
 
-## 👨‍💻 About Me<br><br>- 🌱 Currently learning and improving my frontend development skills.<br>- 💻 Building websites and projects with HTML, CSS, JavaScript, React JS, and TypeScript.<br>- 📚 Currently learning more about React JS and TypeScript.<br>- 🚀 Learning new things by building projects and practicing.<br>- 🧠 Working on improving my coding and problem-solving skills.
+
+## 👨‍💻More About Me<br><br>- 🌱 Currently learning and improving my frontend development skills.<br>- 💻 Building websites and projects with HTML, CSS, JavaScript, React JS, and TypeScript.<br>- 📚 Currently learning more about React JS and TypeScript.<br>- 🚀 Learning new things by building projects and practicing.<br>- 🧠 Working on improving my coding and problem-solving skills.
 
 
 ## 🌐 Socials:
