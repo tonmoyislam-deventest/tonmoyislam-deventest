@@ -1,10 +1,15 @@
 ### Hey 👋! Nice to see you here!
-#### I'm Tonmoy Islam. I'm a Frontend Developer focused on building clean, responsive, and user-friendly web experiences. 💻  
+#### I'm Tonmoy Islam. 
+I'm a Frontend Developer focused on building clean, responsive, and user-friendly web experiences. 💻
 I enjoy learning new technologies, building projects, and improving my skills through practice. 🚀
 
+## 👨‍💻 More About Me
 
-## 👨‍💻More About Me<br><br>- 🌱 Currently learning and improving my frontend development skills.<br>- 💻 Building websites and projects with HTML, CSS, JavaScript, React JS, and TypeScript.<br>- 📚 Currently learning more about React JS and TypeScript.<br>- 🚀 Learning new things by building projects and practicing.<br>- 🧠 Working on improving my coding and problem-solving skills.
-
+- 🌱 Currently learning and improving my frontend development skills.
+- 💻 Building websites and projects with **HTML, CSS, JavaScript, React JS, and TypeScript.**
+- 📚 Currently learning more about **React JS and TypeScript.**
+- 🚀 Learning new things by building projects and practicing.
+- 🧠 Working on improving my coding and problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tonmoy-islam12) 
